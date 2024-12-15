@@ -1,8 +1,8 @@
-### Topic: The significance of union and intersection types in Typescript.
+## Topic: The significance of union and intersection types in Typescript.
 
 A union and intersection both are uses building type in typeScript. A union type represents a value that can be one of several types. On the other hand An intersection type represents a value that must satisfy all the specified types.
 
-For example of union: 
+### For example of union: 
 You have a variables on 3 different values like this: 
 
 let shape;
@@ -18,7 +18,7 @@ function myShape(shape === "Rectangle" | "Circle" |  "triangle"){
 
 this type of case we use union type that provide me options for choose any value of one variable. This is helps to create robust and more effective type in typescript.
 
-For example of intersection: 
+### For example of intersection: 
 In this case, Suppose you have 2 different variable that hold different different values like this:
 
 const name = "Md. Hasan kha";  
