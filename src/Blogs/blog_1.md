@@ -1,4 +1,4 @@
-Topic: The significance of union and intersection types in Typescript.
+### Topic: The significance of union and intersection types in Typescript.
 
 A union and intersection both are uses building type in typeScript. A union type represents a value that can be one of several types. On the other hand An intersection type represents a value that must satisfy all the specified types.
 
